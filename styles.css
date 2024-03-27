@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+#evaluatedText{
+	border:2px solid blue;
+	border-radius:3px;
+	
+}
